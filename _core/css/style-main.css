@@ -1,3 +1,7 @@
+.nav-color {
+	background-color: #874819;
+}
+
 nav.header-nav {
 	background-image: url('../img/header-bg.png');
 	background-repeat: no-repeat;
@@ -28,12 +32,12 @@ div.main-content {
 
 div.main-content a {
 	text-decoration: none;
-	color: #1dc146;
+	color: #874819;
 	font-weight: bold;
 }
 
 div.main-content a:hover {
-	color: #23db51;
+	color: #995d2f;
 }
 
 h1, h2, h3 {
@@ -54,11 +58,11 @@ h6 { font-size: 14px; }
 
 footer a {
 	text-decoration: none;
-	color: #1dc146;
+	color: #874819;
 }
 
 footer a:hover {
-	color: #23db51;
+	color: #995d2f;
 }
 
 #backToTop {
